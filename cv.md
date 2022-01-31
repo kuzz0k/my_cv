@@ -16,6 +16,10 @@ Having started my career as a programmer with python, I smoothly switched to bac
 There are plans to plunge deeper into this area of website creation
 ****
 ********
+## Code:
+```
+console.log('hello world')
+```
 ## Skills
 * Python
 * HTML5, CSS3
